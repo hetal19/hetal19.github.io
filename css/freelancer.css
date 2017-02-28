@@ -157,7 +157,7 @@ header .intro-text .skills {
 .navbar-custom .navbar-nav li.active a:active {
   color:  white;
   background: none;
-  text-decoration: none;
+  text-decoration: underline;
   
 }
 .navbar-custom .navbar-nav li a.mail-link {
@@ -184,9 +184,9 @@ header .intro-text .skills {
   border: 1px solid #f4a742;
   
 }
-.navbar-custom .navbar-nav li.active a:hover,
-.navbar-custom .navbar-nav li.active a:focus,
-.navbar-custom .navbar-nav li.active a:active {
+.navbar-custom .navbar-nav li.active a.mail-link:hover,
+.navbar-custom .navbar-nav li.active a.mail-link:focus,
+.navbar-custom .navbar-nav li.active a.mail-link:active {
   color:  white;
   background: #4f4840;;
   border: 1px solid #f4a742;
