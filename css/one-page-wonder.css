@@ -96,8 +96,7 @@ ul li{
     min-height: 700px;
 }
 .question-box{
-  
-   display: block;
+    display: block;
     width: 100%;
     text-align: center;
     background: url('../img/ipark/question.jpg') no-repeat center center;
