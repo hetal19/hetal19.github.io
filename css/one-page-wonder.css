@@ -100,7 +100,7 @@ ul li{
    display: block;
     width: 100%;
     text-align: center;
-    background: url('../img/ipark/question.jpg') no-repeat center center fixed;
+    background: url('../img/ipark/question.jpg') no-repeat center center;
     background-size:cover;
  -webkit-background-size: cover;
     -moz-background-size: cover;
