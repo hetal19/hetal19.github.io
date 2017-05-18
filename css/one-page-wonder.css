@@ -7,9 +7,9 @@
 body p {
    font-family: 'Open Sans', sans-serif;
    color: #777777;
-   font-size: 14px;
+   font-size: 1.2em;
    line-height: 1.6em;
-   font-weight: 300;
+   font-weight: 100;
    letter-spacing: 0.8px;/* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
 h1,h2,h3{
@@ -43,7 +43,7 @@ ul{
 }
 ul li{
     font-family: 'Open Sans', sans-serif;
-    font-size: 15px;
+    font-size: 1.2em;
     color: #777777;
     line-height: 1.6em;
     letter-spacing: 0.8px;
@@ -62,7 +62,7 @@ ul li{
 
 .header-image {
    text-align: center;
-    background: url('../img/lensmarvel/header-img.jpg') no-repeat top center;
+    background: url('../img/lensmarvel/header-img.jpg') no-repeat bottom center;
     background-color: #11161c;
 }
     .headline {
