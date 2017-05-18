@@ -62,7 +62,7 @@ ul li{
 
 .header-image {
    text-align: center;
-    background: url('../img/lensmarvel/header-img.jpg') no-repeat bottom center;
+    background: url('../img/lensmarvel/header-img.jpg') no-repeat top center;
     background-color: #11161c;
 }
     .headline {
