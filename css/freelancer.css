@@ -41,6 +41,7 @@ h6 {
 h3{
   font-size: 18px;
 }
+
 hr.star-light,
 hr.star-primary {
   padding: 0;
@@ -205,14 +206,14 @@ header .intro-text .skills {
   border: 1px solid #ea3b69;
   
 }*/
-.navbar-custom .navbar-nav li.active a:hover,
+/*.navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color:  white;
   background: #4f4840;;
   border: 1px solid #ea3b69;
   
-}
+}*/
 
 .navbar-custom .navbar-toggle {
   color: #ffffff;
@@ -278,6 +279,7 @@ section.success {
 }
 .thumbnail{
   padding: 0px;
+  
 }
 .thumbnail img{
   width:100%;
