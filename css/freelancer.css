@@ -181,6 +181,38 @@ header .intro-text .skills {
   
   
 }
+.initial_bg{
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+ padding-top: 5px;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  background-color: #b6da45;
+  border-radius: 50%;
+  font-family: 'Lato', sans-serif;
+}
+.initial_bg_1{
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+ padding-top: 5px;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  background-color: #285034;
+  border-radius: 50%;
+  font-family: 'Lato', sans-serif;
+}
 /*.navbar-custom .navbar-nav li a.mail-link {
   color:  rgba(40,40,40, 0.7);
   background: none;
