@@ -102,8 +102,11 @@ ul li{
 }
 .question-box{
   background-image:url('../img/ipark/question.jpg');
-  
- 
+} 
+.header-bg{
+   background-color: #cccccc;
+   text-align: center;
+ }
   
    
 }
